@@ -1,0 +1,6 @@
+D:\vs\Geometry\bin\Debug\Geometry.dll
+D:\vs\Geometry\bin\Debug\Geometry.pdb
+D:\vs\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+D:\vs\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+D:\vs\Geometry\obj\Debug\Geometry.dll
+D:\vs\Geometry\obj\Debug\Geometry.pdb
